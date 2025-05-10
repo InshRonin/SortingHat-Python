@@ -1,8 +1,3 @@
-Love it! 😄 Here’s a fun, emoji-filled **README.md** tailored to your `SortingHat.py` Python quiz:
-
----
-
-````markdown
 # 🧙‍♂️ Sorting Hat Quiz 🏰
 
 Welcome to the **Hogwarts Sorting Hat Quiz**! 🎩✨  
